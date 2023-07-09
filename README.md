@@ -1,8 +1,9 @@
 Hi there!
 
-This is my technical task for an interview for Inditex.
+This is a Spring boot full example application
 
 The project is a Multi-Module. The main technology stack is:
+
 - JDK11
 - Maven
 - Spring Boot
@@ -12,6 +13,7 @@ The project is a Multi-Module. The main technology stack is:
 - Swagger
 
 To run the application just:
+
 - Run "mvn clean install" for the root project.
 - Run "mvn spring-boot:run" for the bootstrap project.
 
